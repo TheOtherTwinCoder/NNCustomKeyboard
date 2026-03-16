@@ -22,7 +22,7 @@ I love keyboards, but they're not all that great - so let me make my own one som
 
 
 | Items | Cost | Links | 
-| :---: | :---: | :---: |
+| :---: | :---: | :--- |
 | Alpha Keys | $60 | https://spkeyboards.com/collections/new-releases/products/f10-flex-keycaps |
 | 60% Modifiers | $20 | https://spkeyboards.com/collections/new-releases/products/f10-flex-keycaps |
 | 80% Adder | $30 | https://spkeyboards.com/collections/new-releases/products/f10-flex-keycaps |
