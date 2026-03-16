@@ -21,7 +21,7 @@ I love keyboards, but they're not all that great - so let me make my own one som
 ## BOM
 
 
-| Header 1 | Header 2 | Header 3 |
-| :--- | :---: | ---: |
+| Items | Cost | Links | 
+| :---: | :---: | :---: |
 | Cell A1 | Cell A2 | Cell A3 |
 | Cell B1 | Cell B2 | Cell B3 |
