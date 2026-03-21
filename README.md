@@ -7,9 +7,13 @@ I love keyboards, but they're not all that great - so let me make my own one som
 
 Here's my Github's sitemap:
 3D Files - includes 3D file of PCB (STEP and an image), and its case
+
 Production - includes Gerber Files, BOM, AND PNP/CPL files for PCB Fabrication
+
 Projectfiles - includes .kicad_pcb, .kicad_sch, and .kicad_pro files to open PCB in KiCad
+
 Links (MD file) - includes resources to build this project
+
 README (MD file) - includes images of the PCB, the CSV file of BOM, and Assembly Instructions!
 
 Thank you, Hack Club, AMD, Blueprint, and AIVON!
