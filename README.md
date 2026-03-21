@@ -50,5 +50,6 @@ Thank you, Hack Club, AMD, Blueprint, and AIVON!
 3. Solder on Nice!Nano (BOM), and solder battery (BOM) to B+ and B- pins.
 4. 3D Print the Case, located in STEP3D
 5. Take the assembled PCB and slot it into the case
-6. Follow the instructions in [this video](https://www.youtube.com/watch?v=O_urj-rF3bQ)
-7. That's it :)
+6. Solder on the rgb controller to the nice!nano, and the light strip to the controller.
+7. Follow the instructions in [this video](https://www.youtube.com/watch?v=O_urj-rF3bQ)
+8. That's it :)
