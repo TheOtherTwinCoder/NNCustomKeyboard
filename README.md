@@ -30,3 +30,13 @@ I love keyboards, but they're not all that great - so let me make my own one som
 | Switches | $40 | https://mechanicalkeyboards.com/checkouts/cn/hWNA2r5NHFXzy1tke3oyGLrU/en/information?_r=AQABIg-5BnWXsXSk4_bNypzt72TOds3C857VtIc9BUQPFP0&auto_redirect=false&edge_redirect=true&skip_shop_pay=true|
 | Stabilizers | $10 | https://www.keychron.com/products/keychron-gold-plated-pcb-mounted-stabilizer-set?variant=40142423162969&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopGC2sEL_ogdcSOZLuLDr0binjVVVFys3JigTozS6elob_414EHnZQ |
 | Grand Total | $124 | Submitting for review on Mar 20th!!! :) |
+
+## Assembly
+
+1. Since PCBA already assembled the diodes, we can skip this step. However, if no PCBA, solder on the diodes manually.
+2. Solder on the AliExpress switches (found in the BOM).
+3. Solder on Nice!Nano (BOM), and solder battery (BOM) to B+ and B- pins.
+4. 3D Print the Case, located in STEP3D
+5. Take the assembled PCB and slot it into the case
+6. Follow the instructions in [this video](https://www.youtube.com/watch?v=O_urj-rF3bQ)
+7. That's it :)
