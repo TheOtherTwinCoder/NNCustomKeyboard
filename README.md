@@ -29,4 +29,4 @@ I love keyboards, but they're not all that great - so let me make my own one som
 | Battery | $8 | https://t.ly/81SML |
 | Switches | $40 | https://mechanicalkeyboards.com/checkouts/cn/hWNA2r5NHFXzy1tke3oyGLrU/en/information?_r=AQABIg-5BnWXsXSk4_bNypzt72TOds3C857VtIc9BUQPFP0&auto_redirect=false&edge_redirect=true&skip_shop_pay=true|
 | Stabilizers | $10 | https://www.keychron.com/products/keychron-gold-plated-pcb-mounted-stabilizer-set?variant=40142423162969&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopGC2sEL_ogdcSOZLuLDr0binjVVVFys3JigTozS6elob_414EHnZQ |
-| Grand Total | $124 | Submitting for review on Mar 20th !!! :) |
+| Grand Total | $124 | Submitting for review on Mar 20th!!! :) |
