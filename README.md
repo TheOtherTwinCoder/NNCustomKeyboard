@@ -45,7 +45,7 @@ https://cad.onshape.com/documents/f36815683b46d8fc882c34f1/w/c2f7f80d4310b2d3346
 | Items | Cost | Links | 
 | :---: | :---: | :--- |
 | Alpha Keys | $2.77 | (https://www.aliexpress.us/item/3256805792312994.html?spm=a2g0o.productlist.main.12.73d47e81v9eLzK&algo_pvid=c15d0a88-20ab-49d7-9c50-cfdaf69e2e98&algo_exp_id=c15d0a88-20ab-49d7-9c50-cfdaf69e2e98-11&pdp_ext_f=%7B%22order%22%3A%22592%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%2132.73%217.77%21%21%21224.15%2153.17%21%402101dedf17741192468633377e1610%2112000035146888338%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ad098110%3Bm03_new_user%3A-29895%3BpisId%3A5000000197827646&curPageLogUid=56gUHibOIKh2&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005978627746%7C_p_origin_prod%3A) |
-| PCB | $0 (sponsored) | https://www.pcbway.com/orderonline.aspx?outsideid=eff06397-051d-44e7-84eb-f0131939fd14 |
+| PCB | $39 | Order using Gerber Files in the production folder :), this is a JLCPCB estimate, not including shipping. |
 | Nice-Nano | $25 | https://typeractive.xyz/products/nice-nano?utm_source=nicekeyboards&utm_medium=referral&utm_campaign=find-a-store |
 | Battery | $8 | https://t.ly/81SML |
 | Switches | $30 | https://mechanicalkeyboards.com/checkouts/cn/hWNA2r5NHFXzy1tke3oyGLrU/en/information?_r=AQABIg-5BnWXsXSk4_bNypzt72TOds3C857VtIc9BUQPFP0&auto_redirect=false&edge_redirect=true&skip_shop_pay=true|
