@@ -18,6 +18,11 @@ README (MD file) - includes images of the PCB, the CSV file of BOM, and Assembly
 
 Thank you, Hack Club, AMD, Blueprint, and AIVON!
 
+## Full Assembly
+
+<img width="1440" height="900" alt="Screenshot 2026-03-21 at 5 40 07 PM" src="https://github.com/user-attachments/assets/607d2061-a93f-458a-a785-078b903854a3" />
+
+
 ## The V2 PCB:
 
 <img width="1258" height="536" alt="image" src="https://github.com/user-attachments/assets/fc3df360-ba9d-43fe-94c4-6e3d9184707a" />
