@@ -24,8 +24,7 @@ https://cad.onshape.com/documents/f36815683b46d8fc882c34f1/w/c2f7f80d4310b2d3346
 
 ## Full Assembly
 
-<img width="1440" height="900" alt="Screenshot 2026-03-21 at 5 40 07 PM" src="https://github.com/user-attachments/assets/607d2061-a93f-458a-a785-078b903854a3" />
-
+<img width="1095" height="494" alt="Screenshot 2026-03-22 at 12 18 09 PM" src="https://github.com/user-attachments/assets/d40aabae-cbfe-4f5d-9bc1-2c71eaa69d09" />
 
 ## The V2 PCB:
 
