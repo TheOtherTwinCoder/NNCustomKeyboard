@@ -50,7 +50,7 @@ https://cad.onshape.com/documents/f36815683b46d8fc882c34f1/w/c2f7f80d4310b2d3346
 | Battery | $8 | https://t.ly/81SML |
 | Switches | $30 | https://mechanicalkeyboards.com/checkouts/cn/hWNA2r5NHFXzy1tke3oyGLrU/en/information?_r=AQABIg-5BnWXsXSk4_bNypzt72TOds3C857VtIc9BUQPFP0&auto_redirect=false&edge_redirect=true&skip_shop_pay=true|
 | Stabilizers | $1 | https://www.keychron.com/products/keychron-gold-plated-pcb-mounted-stabilizer-set?variant=40142423162969&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopGC2sEL_ogdcSOZLuLDr0binjVVVFys3JigTozS6elob_414EHnZQ |
-| Grand Total | $99 | Submitting for review on Mar 21st!!! :) |
+| Grand Total | $138 | Submitting for review on Mar 21st!!! :) |
 
 ## Assembly
 
