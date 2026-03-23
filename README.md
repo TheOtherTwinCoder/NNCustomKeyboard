@@ -20,7 +20,7 @@ Thank you, Hack Club, AMD, Blueprint, and AIVON!
 
 ## Onshape Link
 
-https://cad.onshape.com/documents/f36815683b46d8fc882c34f1/w/c2f7f80d4310b2d3346a9409/e/7df84b3fbc8833d7e647c037
+https://cad.onshape.com/documents/c9928b6a9f4ef1bbd20ca445/w/38d45bd75b935af33784f8b5/e/9c69ae00eee7f366adcabbe1?renderMode=0&uiState=69c0b4cf9a5accdf55e440de
 
 ## Full Assembly
 
