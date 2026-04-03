@@ -1,4 +1,4 @@
-[Sponsored by AIVON](https://aivon.com)
+[Sponsored by AIVON]((https://www.aivon.com/?code=K7))
 
 # NNCustomKeyboard
 I love keyboards, but they're not all that great - so let me make my own one something custom, so it's mine and something useful, so it's more practical than a traditional one!
